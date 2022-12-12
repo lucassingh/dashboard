@@ -1,10 +1,18 @@
 # Ecommy template app
 
-Ecommy app is a customisable administrative dashboard template. It contains list of users, orders, kanban dashboard for tasks, graphics and more. You can configure light dark theme and choose different colours as theme. 
+Ecommy app is a customisable administrative dashboard template. It contains list of users, orders, kanban dashboard for tasks, graphics and more. You can configure light dark theme and choose different colours as theme.
+
+## Stack
+
+- syncfusion UI
+- Tailwind
+- Create React App
+- React router dom v6
+- React icons
 
 ### Project url 
 
-[Econommy](https://www.example.com)
+[Econommy app](https://www.example.com)
 
 ## Home view
 
